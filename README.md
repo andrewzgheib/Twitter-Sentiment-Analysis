@@ -1,6 +1,8 @@
 # Sentiment Analysis on Twitter Data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/andrewzgheib-ml-timent-analysis-0gvz8df5/lab/tree/main.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/andrewzgheib-ml-timent-analysis-nahwr9di/lab/tree/main.ipynb)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewzgheib/ML-Sentiment-Analysis/blob/main/main.ipynb)
+[![Kaggle](https://camo.githubusercontent.com/1398db766d8ca60e6f296aac9ac429e344705c6c2c7e1ceb024230aac69fd6be/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/code/andrewzgheib/notebookadd7decf9c/edit)
 
 This project focuses on building a sentiment analysis model using machine learning techniques to classify tweets as positive or negative. The model is trained on a large dataset of tweets with corresponding sentiment labels.
 
