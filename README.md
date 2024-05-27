@@ -1,5 +1,7 @@
 # Sentiment Analysis on Twitter Data
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/andrewzgheib-ml-timent-analysis-0gvz8df5/lab/tree/main.ipynb)
+
 This project focuses on building a sentiment analysis model using machine learning techniques to classify tweets as positive or negative. The model is trained on a large dataset of tweets with corresponding sentiment labels.
 
 ## Dataset
