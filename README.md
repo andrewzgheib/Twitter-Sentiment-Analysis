@@ -1,6 +1,7 @@
 # Sentiment Analysis on Twitter Data
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewzgheib/ML-Sentiment-Analysis/blob/main/main.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Run%20in-Colab-blue?logo=google-colab&style=for-the-badge)](https://colab.research.google.com/github/andrewzgheib/ML-Sentiment-Analysis/blob/main/main.ipynb)
+[![Open in Kaggle](https://img.shields.io/badge/Run%20in-Kaggle-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/code/andrewzgheib/twitter-sentiment-analysis/notebook)
 
 This project focuses on building a sentiment analysis model using machine learning techniques to classify tweets as positive or negative. The model is trained on a large dataset of tweets with corresponding sentiment labels.
 
